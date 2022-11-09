@@ -8,7 +8,7 @@ title: Physical AI
 [//]: # tags: [books, test]
 ---
 
-##**_Physical AI_** mainly includes:
+## **_Physical AI_** mainly includes:
 * Physically based character animation performance with internal collision option
 * One click creates humanoid dynamic ragdolls and automatically calculates joint limits.
 * Automatic setting of joint spring and damper based on total mass, achieving good dynamic ragdoll performance without manual adjustment.
