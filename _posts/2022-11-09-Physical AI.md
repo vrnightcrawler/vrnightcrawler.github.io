@@ -14,4 +14,4 @@ title: Physical AI
 * Automatic setting of joint spring and damper based on total mass, achieving good dynamic ragdoll performance without manual adjustment.
 * Provide sample player and AI scripts with basic state transitions and damage calculation system(including falling damage).
 
-Compatible with (**_VR PHYSICAL BODY_**)[https://assetstore.unity.com/packages/slug/230540]
+Compatible with (**VR PHYSICAL BODY**)[https://assetstore.unity.com/packages/slug/230540]
