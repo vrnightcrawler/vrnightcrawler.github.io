@@ -1,8 +1,8 @@
-name: Beautiful Jekyll CI
+name: vrnightcrawler
 on: [push, pull_request]
 jobs:
   build:
-    name: Build Jekyll
+    name: vrnightcrawler
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
