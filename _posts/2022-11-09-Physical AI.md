@@ -8,6 +8,8 @@ title: Physical AI
 [//]: # tags: [books, test]
 ---
 
+Active ragdoll which can work with Nav Mesh Agent. Easily create your own physical player and AI!
+
 ## **_Physical AI_** mainly includes:
 * Physically based character animation performance with internal collision option
 * One click creates humanoid dynamic ragdolls and automatically calculates joint limits.
