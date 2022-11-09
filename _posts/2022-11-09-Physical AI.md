@@ -17,3 +17,5 @@ Active ragdoll which can work with Nav Mesh Agent. Easily create your own physic
 * Provide sample player and AI scripts with basic state transitions and damage calculation system(including falling damage).
 
 ##### Compatible with [**VR PHYSICAL BODY**](https://assetstore.unity.com/packages/slug/230540)
+
+##### Here is the [**demo**](https://drive.google.com/file/d/13fWPobyIn5xNZos0DxXPdtmhouy-Aa9m/view?usp=share_link).
