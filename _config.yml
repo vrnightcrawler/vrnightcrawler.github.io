@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: VRNIGHTCRAWLER SUPPORT
 
 # Your name to show in the footer
-author: Some Person
+author: vrnightcrawler
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,8 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Youtube: "https://www.youtube.com/channel/UCZ6xuJq4s_enlaeG-F1P9zQ"
+    - VR PHYSICAL BODY DEMO: "https://drive.google.com/file/d/1i40ZPMSnJdEcgglP3S6I7kSmeaxCvTG3/view?usp=share_link"
+    - Physical AI DEMO: "https://drive.google.com/file/d/13fWPobyIn5xNZos0DxXPdtmhouy-Aa9m/view?usp=share_link"
   Author's home: "https://deanattali.com"
 
 ################
