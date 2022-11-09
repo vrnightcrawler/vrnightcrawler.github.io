@@ -7,11 +7,11 @@ title: VR PHYSICAL BODY
 [//]: # tags: [test]
 [//]: # comments: true
 ---
-##**_Create your own VR physical body with just one script ！！！_**
+## **_Create your own VR physical body with just one script ！！！_**
 
 **VR PHYSICAL BODY** is a VR physical interaction framework developed based on OpenXR.For any Humanoid character, **VR PHYSICAL BODY** can be generated with one script ,and you can physically interact with scene objects, and this tool is very easy to use.
 
-##**VR PHYSICAL BODY** include:
+## **VR PHYSICAL BODY** include:
 * The physical body and automatic generator, including upper limb and finger colliders, runs on the basis of IK.
 * Dynamic finger posture adjustment system when grasping, for the vast majority of objects without pre-editing the finger posture, greatly saving the development time of VR projects.
 * Assisted grasping system. If the holding position is not required, there is no need to add additional scripts to scene objects.
@@ -22,7 +22,7 @@ title: VR PHYSICAL BODY
 * Simple sound and vibration system.
 * Simple storage system.
 
-###**Example scenarios include:**
+### **Example scenarios include:**
 * An object which can receive collision damage
 * A toy car control system with some common VR physical interaction prefabs, such as steering wheel, button, shift.
 * Example weapons: including gun, sword and hammer
