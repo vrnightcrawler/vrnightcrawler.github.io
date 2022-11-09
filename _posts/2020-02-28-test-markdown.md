@@ -1,78 +1,32 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+title: VR PHYSICAL BODY
+[//]: # subtitle: Each post also has a subtitle
+[//]: # gh-repo: daattali/beautiful-jekyll
+[//]: # gh-badge: [star, fork, follow]
+[//]: # tags: [test]
+[//]: # comments: true
 ---
+##**_Create your own VR physical body with just one script ！！！_**
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**VR PHYSICAL BODY** is a VR physical interaction framework developed based on OpenXR.For any Humanoid character, **VR PHYSICAL BODY** can be generated with one script ,and you can physically interact with scene objects, and this tool is very easy to use.
 
-**Here is some bold text**
+##**VR PHYSICAL BODY** include:
+* The physical body and automatic generator, including upper limb and finger colliders, runs on the basis of IK.
+* Dynamic finger posture adjustment system when grasping, for the vast majority of objects without pre-editing the finger posture, greatly saving the development time of VR projects.
+* Assisted grasping system. If the holding position is not required, there is no need to add additional scripts to scene objects.
+* Custom gesture editing function.
+* Optimization of force distribution for two-handed grip.
+* Physical motion controller, which supports smooth movement, climbing, etc., provides the option to reduce FOV to relieve motion sickness.
+* Perfect physics-based damage system.
+* Simple sound and vibration system.
+* Simple storage system.
 
-## Here is a secondary heading
+###**Example scenarios include:**
+* An object which can receive collision damage
+* A toy car control system with some common VR physical interaction prefabs, such as steering wheel, button, shift.
+* Example weapons: including gun, sword and hammer
 
-Here's a useless table:
+_Compatible with [**_Physical AI_**](https://assetstore.unity.com/packages/tools/physics/physical-ai-231682)._
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Here is the [**_demo_**](https://drive.google.com/file/d/1i40ZPMSnJdEcgglP3S6I7kSmeaxCvTG3/view?usp=share_link).
