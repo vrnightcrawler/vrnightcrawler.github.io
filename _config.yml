@@ -21,11 +21,9 @@ author: vrnightcrawler
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Youtube: "https://www.youtube.com/channel/UCZ6xuJq4s_enlaeG-F1P9zQ"
-    - VR PHYSICAL BODY DEMO: "https://drive.google.com/file/d/1i40ZPMSnJdEcgglP3S6I7kSmeaxCvTG3/view?usp=share_link"
-    - Physical AI DEMO: "https://drive.google.com/file/d/13fWPobyIn5xNZos0DxXPdtmhouy-Aa9m/view?usp=share_link"
-  Author's home: "https://deanattali.com"
+  Demos:
+    - VR PHYSICAL BODY: "https://drive.google.com/file/d/1i40ZPMSnJdEcgglP3S6I7kSmeaxCvTG3/view?usp=share_link"
+    - Physical AI: "https://drive.google.com/file/d/13fWPobyIn5xNZos0DxXPdtmhouy-Aa9m/view?usp=share_link"
 
 ################
 # --- Logo --- #
@@ -33,10 +31,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -50,12 +48,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+  email: "vrnightcrawler@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  #github: daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  discord: daattali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -88,14 +87,16 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  #twitter: true
+  #facebook: true
   linkedin: true
   vk: false
+  youtube: true
+  discord: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
